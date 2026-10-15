@@ -1,0 +1,16 @@
+Assignment for the day: 
+1. Manual testing & Typescript materials are added in Git (till whatever subject is explained)
+2. Switch to your Playwright folder (cd Playwright folder name -> so you will switch to your automation repo) then run below cmds
+3. Checkout to master branch (git checkout master)
+3. Take the pull (git pull)
+4. You have to find all the documents which i have uploaded 
+5. Create a local branch (git branch branch_name)
+6. Add typescript code 
+7. Add untracked files to stagging (git add .)
+8. Commit the code (git commit -m "commit message")
+9. Push the code to remote (git push origin branch_name)
+
+Note: you can run below cmds anything 
+git status (to check the git status like on which branch you are in and any changes on your local branch)
+git branch (to check on which branch you are in)
+

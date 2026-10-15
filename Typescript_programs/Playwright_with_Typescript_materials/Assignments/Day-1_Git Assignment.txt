@@ -1,0 +1,37 @@
+Assignment for the day: 
+1. Create a local branch 
+2. Add typescript code 
+3. Perform git actions and raise the PR
+
+
+Follow below steps for git actions 
+
+// to check on which branch you are in and code updates (ex: it will show on master branch and code updates)
+git status 
+
+// checkout to master and pull the latest code from remote before you create a new branch
+git checkout master 
+
+// to get the latest code from master
+git pull 
+
+// to create new local branch (Ex: for branch name : your_name_task_details) (Note: you will be on master branch only but new branch will be created)
+git branch anvaya_Check_if_a_character_is_uppercase
+
+// switch to your local branch
+git checkout anvaya_Check_if_a_character_is_uppercase
+
+***** develop your code and run below cmds to push your code *******
+
+//  to move changes from your working directory into the Git staging area (just moving to git but not saving)
+git add .
+
+// permanently saves your staged changes into the local Git repository history (to save permanently in local git repo in your own computer)
+git commit -m "commit message"
+
+// uploads your local repository commits to a remote repository (like GitHub, GitLab, or Bitbucket)
+git push origin anvaya_Check_if_a_character_is_uppercase
+
+
+
+Note : for every task try to create a new branch and develop the code (Here task represents lab assignments)
