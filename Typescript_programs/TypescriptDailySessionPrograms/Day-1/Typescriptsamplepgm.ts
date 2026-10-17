@@ -10,3 +10,6 @@ ageOfPerson = "thirty"; // This will cause a type error in TypeScript since ageO
 
 console.log(`Updated Age: ${ageOfPerson}`);
 console.log(`Student ID: ${studentId}`);
+
+const isStudent: boolean = true;
+console.log(`Is Student: ${isStudent}`);
