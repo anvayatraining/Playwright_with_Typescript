@@ -7,6 +7,8 @@ let notAssigend: undefined=undefined;
 console.log(emptyValue) // null
 console.log(notAssigend) // undefined
 
+//let cost:string=null; // wrong way of coding
+
 let prices:number;
 console.log(prices); //undefined
 

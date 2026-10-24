@@ -1,7 +1,7 @@
 // 7. VOID TYPE
 // Used for functions that don't return anything
 
-function show():void
+function show() : void
 {
     console.log("Welcome");    
 }

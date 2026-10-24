@@ -9,7 +9,6 @@ console.log(typeof(value))
 
 value=true;
 console.log(typeof(value))
-
 console.log(value);
 
 // let value1:number=10;
