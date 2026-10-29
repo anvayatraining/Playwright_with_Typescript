@@ -18,7 +18,7 @@
 
 //Example 5 : Depending on the value of day, print the corresponding day of the week.
 
-let day: number = 3;
+let day: number = 13;
 
 switch (day) {
     case 1:

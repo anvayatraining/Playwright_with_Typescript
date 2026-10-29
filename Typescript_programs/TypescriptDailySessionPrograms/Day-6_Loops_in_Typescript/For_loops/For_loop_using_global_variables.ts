@@ -10,7 +10,7 @@ console.log(x);//6
 
 //Example: Print the value of i after the loop ends
 let y:number; //global
-for(y=1;y<=5;y++);
+for(y=1;y<=5;y++); //semicolon is used to terminate the loop
 console.log(y); //6
 
 

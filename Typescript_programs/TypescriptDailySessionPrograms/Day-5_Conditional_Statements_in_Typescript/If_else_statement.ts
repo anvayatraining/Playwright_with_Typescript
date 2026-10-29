@@ -14,13 +14,13 @@
 
 //Example 2:  Print number is even is odd
 
-let num:number=10;
+let num:number=17;
 
 if(num%2 ==0)
 {
-    console.log(`${num} Even number`);
+    console.log(`${num} is an Even number`);
 }
 else
 {
-    console.log(`${num} Odd number`);
+    console.log(`${num} is an Odd number`);
 }

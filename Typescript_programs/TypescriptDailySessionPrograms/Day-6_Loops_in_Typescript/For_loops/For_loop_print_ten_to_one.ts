@@ -1,4 +1,4 @@
-// Example 3: 10 to 1
+// Example 3: print 10 to 1
 
 for (let i = 10; i >= 1; i--) 
 {

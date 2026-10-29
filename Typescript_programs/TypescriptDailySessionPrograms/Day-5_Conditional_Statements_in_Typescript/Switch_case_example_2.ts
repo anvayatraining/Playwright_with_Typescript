@@ -1,5 +1,5 @@
- // 	Example 6: The switch statement can also include an expression 
-let x:number=20, y:number=5;
+// Example 6: The switch statement can also include an expression 
+let x:number=20, y:number=15;
 
 switch(x-y)      // expression
 {
