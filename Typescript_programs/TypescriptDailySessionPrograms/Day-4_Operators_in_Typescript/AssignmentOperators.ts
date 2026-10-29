@@ -1,7 +1,7 @@
 //Assignment Operators =
 
-a=10;
-b=5;
+let a: number = 10;
+let b: number = 5;
 
 //a+=b;     //a=a+b;
 //console.log(a)

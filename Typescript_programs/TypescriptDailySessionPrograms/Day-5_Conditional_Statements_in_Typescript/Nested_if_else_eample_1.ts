@@ -16,17 +16,17 @@ else
 
 
 //Example3: Depending on the marks, display appropriate grade.
-let marks:number=50;
+let marks:number=83;
 
-if(marks>=90 && marks <=100)    //Condition 1
+if(marks>=90 && marks <=100)    //Condition 1 starting from 90 to 100
 {
     console.log("Grade A");
 }
-else if(marks>=75 && marks<90)   // condition 2
+else if(marks>=75 && marks<90)   // condition 2 starting from 75 to 89
 {
     console.log("Grade B");
 }
-else if(marks>=60 && marks<75)  // condition 3
+else if(marks>=60 && marks<75)  // condition 3 starting from 60 to 74
 {
     console.log("Grade C")
 }
