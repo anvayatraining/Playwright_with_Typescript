@@ -45,3 +45,12 @@ console.log(msg());
 
 // Output:
 // Hello TypeScript
+
+
+// ---------- Example 2 ----------
+// 'msg2' is a variable that stores an anonymous function.
+//   - no parameters -> the parentheses () are empty
+let msg2 = function()
+{
+    console.log("Hello, TypeScript!");
+};

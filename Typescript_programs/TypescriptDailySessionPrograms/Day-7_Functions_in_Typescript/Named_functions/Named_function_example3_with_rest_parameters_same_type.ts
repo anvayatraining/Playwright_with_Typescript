@@ -17,7 +17,7 @@ function addAllNumbers(...nums: number[])
     let sum: number = 0;
 
     // 'nums' is an array, so we can loop through it using its length
-    for (i = 0; i < nums.length; i++)
+    for (i = 0; i < nums.length; i++) 
     {
         sum = sum + nums[i];   // add each value to sum
     }
@@ -29,6 +29,8 @@ function addAllNumbers(...nums: number[])
 addAllNumbers(1, 2);                // sum of the numbers 3
 addAllNumbers(1, 2, 3);             // sum of the numbers 6
 addAllNumbers(10, 20, 30, 40, 50);  // sum of the numbers 150
+addAllNumbers(10); // sum of the numbers 10
+addAllNumbers(); // sum of the numbers 0
 
 // Output:
 // sum of the numbers 3

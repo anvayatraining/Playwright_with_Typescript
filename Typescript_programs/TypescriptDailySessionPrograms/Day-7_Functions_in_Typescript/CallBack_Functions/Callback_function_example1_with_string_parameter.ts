@@ -39,10 +39,10 @@
 // Function that takes a callback function as a parameter
 //   name     -> a normal string parameter
 //   callback -> a function that takes a string and returns nothing (void)
-function greet(name: string, callback: (message: string) => void)
+function greet(name: string, x: (message: string) => void)
 {
     console.log(name);
-    callback("Hello");   // executing the callback function (we pass "Hello" to it)
+    x("Hello");   // executing the callback function (we pass "Hello" to it)
 }
 
 

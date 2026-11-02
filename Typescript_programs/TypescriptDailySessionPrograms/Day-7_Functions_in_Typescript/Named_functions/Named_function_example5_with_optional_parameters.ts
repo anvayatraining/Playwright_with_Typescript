@@ -30,7 +30,7 @@ displayDetails(123, "Scott", "scot@gmail.com");
 displayDetails(123, "Scott");
 
 // Output:
-// ID: 123
+// ID: 12
 // Name: Scott
 // Email: scot@gmail.com
 // ID: 123
